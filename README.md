@@ -1,6 +1,8 @@
 # COVID-19 India Cases Tracker
 Uses data from [https://www.mohfw.gov.in/](https://www.mohfw.gov.in/) to display state-wise data on doughnut chart using [Chart.js](https://www.chartjs.org/docs/latest/).
 
+[Click here for Live Demo](https://inspiring-wescoff-62f8b5.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
